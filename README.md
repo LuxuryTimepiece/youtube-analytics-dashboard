@@ -22,11 +22,6 @@ A web app to fetch and analyze YouTube video transcripts, providing sentiment an
 2. Install dependencies: `npm install`
 3. Run: `npm start`
 
-### Frontend (Node.js)
-1. Navigate to `frontend/`.
-2. Install dependencies: `npm install`.
-3. Run: `npm start`.
-
 ## Usage
 - Open `http://localhost:3000`.
 - Enter a YouTube video ID (e.g., `5SDNmeStmGQ`).
