@@ -11,11 +11,16 @@ A web app to fetch and analyze YouTube video transcripts, providing sentiment an
 
 ## Setup
 ### Backend (Python)
-1. Navigate to `backend/`.
-2. Install dependencies: `pip3 install -r requirements.txt`.
-3. Download spaCy model: `python3 -m spacy download en_core_web_sm`.
-4. Add `cookies.txt` (YouTube login export) to `backend/`.
-5. Run: `python3 backend.py`.
+1. `cd backend`
+2. Install dependencies: `pip3 install -r requirements.txt`
+3. Download spaCy model: `python3 -m spacy download en_core_web_sm`
+4. Add `cookies.txt` (YouTube login export) to `backend/`
+5. Run: `python3 backend.py`
+
+### Frontend (Node.js)
+1. `cd frontend`
+2. Install dependencies: `npm install`
+3. Run: `npm start`
 
 ### Frontend (Node.js)
 1. Navigate to `frontend/`.
