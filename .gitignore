@@ -1,0 +1,14 @@
+# Ignore sensitive files
+backend/cookies.txt
+backend/history.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Node.js
+frontend/node_modules/
+frontend/.env
+
+# macOS
+.DS_Store
