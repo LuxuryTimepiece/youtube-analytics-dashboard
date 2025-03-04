@@ -36,7 +36,7 @@ A web app to fetch and analyze YouTube video transcripts, providing sentiment an
 - Handles duplicate text from `.vtt` files effectively.
 
 ## Demo
-[Link to video/screenshot if hosted later]
+![YouTube Analytics Dashboard Demo](https://raw.githubusercontent.com/LuxuryTimepiece/youtube-analytics-dashboard/refs/heads/main/screenshot/transcriptPulledDemo.png)
 
 ## License
 MIT
