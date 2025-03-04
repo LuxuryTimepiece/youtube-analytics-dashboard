@@ -24,7 +24,7 @@ A web app to fetch and analyze YouTube video transcripts, providing sentiment an
 
 ## Usage
 - Open `http://localhost:3000`.
-- Enter a YouTube video ID (e.g., `5SDNmeStmGQ`).
+- Enter a YouTube video ID (e.g., `dQw4w9WgXcQ`).
 - View transcript, sentiment, and keywords.
 
 ## Tech Stack
